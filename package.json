@@ -1,0 +1,11 @@
+{
+  "name": "wondertrail-tp2",
+  "version": "1.0.0",
+  "description": "WonderTrail - Trabalho Prático 2",
+  "scripts": {
+    "start": "json-server --watch db/db.json --port 3000 --static public"
+  },
+  "dependencies": {
+    "json-server": "0.17.4"
+  }
+}

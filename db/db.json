@@ -1,0 +1,131 @@
+{
+  "lugares": [
+    {
+      "id": 1,
+      "nome": "Paris",
+      "descricao": "Capital francesa famosa por arte, gastronomia e arquitetura icônica.",
+      "conteudo": "Paris oferece museus de classe mundial, boulevards arborizados e cafés charmosos. Ideal para quem busca história, cultura e experiências gastronômicas.",
+      "pais": "França",
+      "continente": "Europa",
+      "destaque": true,
+      "data": "2025-03-30",
+      "latitude": 48.8566,
+      "longitude": 2.3522,
+      "imagem_pincipal": "https://images.unsplash.com/photo-1502602898657-3e91760cbb34?q=80&w=600",
+      "atracoes": [
+        { "id": 1, "nome": "Torre Eiffel", "descricao": "Monumento símbolo de Paris com mirantes panorâmicos.", "imagem": "https://images.unsplash.com/photo-1511739001486-6bfe10ce785f?q=80&w=400" },
+        { "id": 2, "nome": "Museu do Louvre", "descricao": "Maior museu de arte do mundo, lar da Mona Lisa.", "imagem": "https://images.unsplash.com/photo-1565008447742-97f6f38c985c?q=80&w=400" },
+        { "id": 3, "nome": "Catedral de Notre-Dame", "descricao": "Obra-prima gótica às margens do Sena.", "imagem": "https://images.unsplash.com/photo-1499856871958-5b9627545d1a?q=80&w=400" }
+      ]
+    },
+    {
+      "id": 2,
+      "nome": "Kyoto",
+      "descricao": "Antiga capital do Japão, reconhecida por templos, jardins e tradições.",
+      "conteudo": "Kyoto preserva santuários xintoístas, templos budistas e bairros históricos. Visita imperdível para contemplar a florada das cerejeiras e a culinária kaiseki.",
+      "pais": "Japão",
+      "continente": "Ásia",
+      "destaque": false,
+      "data": "2025-03-28",
+      "latitude": 35.0116,
+      "longitude": 135.7681,
+      "imagem_pincipal": "https://images.unsplash.com/photo-1493976040374-85c8e12f0c0e?q=80&w=600",
+      "atracoes": [
+        { "id": 1, "nome": "Fushimi Inari Taisha", "descricao": "Santuário famoso por milhares de portais torii.", "imagem": "https://images.unsplash.com/photo-1604928141064-207cdf6f0222?q=80&w=400" },
+        { "id": 2, "nome": "Kinkaku-ji (Pavilhão Dourado)", "descricao": "Templo zen coberto com folhas de ouro em um lago sereno.", "imagem": "https://images.unsplash.com/photo-1503899036084-c55cdd92da26?q=80&w=400" },
+        { "id": 3, "nome": "Arashiyama", "descricao": "Distrito cênico com o icônico bosque de bambus.", "imagem": "https://images.unsplash.com/photo-1542640244-7e672d6cef21?q=80&w=400" }
+      ]
+    },
+    {
+      "id": 3,
+      "nome": "Rio de Janeiro",
+      "descricao": "Cidade maravilhosa com praias, morros e ritmo contagiante.",
+      "conteudo": "Entre o mar e a mata, o Rio combina belezas naturais, patrimônio histórico e vida cultural vibrante. Ideal para quem busca sol, trilhas e música.",
+      "pais": "Brasil",
+      "continente": "América do Sul",
+      "destaque": true,
+      "data": "2025-03-27",
+      "latitude": -22.9068,
+      "longitude": -43.1729,
+      "imagem_pincipal": "https://images.unsplash.com/photo-1483729558449-99ef09a8c325?q=80&w=600",
+      "atracoes": [
+        { "id": 1, "nome": "Cristo Redentor", "descricao": "Estátua no topo do Corcovado com vista panorâmica da cidade.", "imagem": "https://images.unsplash.com/photo-1583847268964-b28dc8f51f92?q=80&w=400" },
+        { "id": 2, "nome": "Pão de Açúcar", "descricao": "Complexo de morros com bondinho e mirantes sobre a baía.", "imagem": "https://images.unsplash.com/photo-1516306580629-468a647ba3cd?q=80&w=400" },
+        { "id": 3, "nome": "Jardim Botânico", "descricao": "Reserva com espécies nativas e alamedas de palmeiras imperiais.", "imagem": "https://images.unsplash.com/photo-1599903525624-a74577f1dc21?q=80&w=400" }
+      ]
+    },
+    {
+      "id": 4,
+      "nome": "Cidade do Cabo",
+      "descricao": "Destino costeiro com montanhas dramáticas e vinícolas próximas.",
+      "conteudo": "Mistura natureza exuberante, praias, cultura e gastronomia. A Table Mountain domina a paisagem e o Cape Point oferece trilhas e vistas oceânicas.",
+      "pais": "África do Sul",
+      "continente": "África",
+      "destaque": false,
+      "data": "2025-03-25",
+      "latitude": -33.9249,
+      "longitude": 18.4241,
+      "imagem_pincipal": "https://images.unsplash.com/photo-1580618672591-eb180b1a973f?q=80&w=600",
+      "atracoes": [
+        { "id": 1, "nome": "Table Mountain", "descricao": "Montanha icônica com trilhas e teleférico.", "imagem": "https://images.unsplash.com/photo-1576485375217-bc6905b4ee87?q=80&w=400" },
+        { "id": 2, "nome": "V&A Waterfront", "descricao": "Área portuária com lojas, restaurantes e aquário.", "imagem": "https://images.unsplash.com/photo-1563212871-bb92348ff9ef?q=80&w=400" },
+        { "id": 3, "nome": "Boulders Beach", "descricao": "Praia famosa pela colônia de pinguins-africanos.", "imagem": "https://images.unsplash.com/photo-1590001155093-a3c66ab0c3ff?q=80&w=400" }
+      ]
+    },
+    {
+      "id": 5,
+      "nome": "Barcelona",
+      "descricao": "Cidade mediterrânea vibrante, marcada pelas obras de Gaudí.",
+      "conteudo": "Barcelona combina praias urbanas, gastronomia catalã e arquitetura modernista. Um destino que agrada tanto a amantes de arte quanto de vida noturna.",
+      "pais": "Espanha",
+      "continente": "Europa",
+      "destaque": true,
+      "data": "2025-03-22",
+      "latitude": 41.3851,
+      "longitude": 2.1734,
+      "imagem_pincipal": "https://images.unsplash.com/photo-1539650116574-8efeb43e2750?q=80&w=600",
+      "atracoes": [
+        { "id": 1, "nome": "Sagrada Família", "descricao": "Basílica inacabada, obra-prima de Antoni Gaudí.", "imagem": "https://images.unsplash.com/photo-1587300003388-59208cc962cb?q=80&w=400" },
+        { "id": 2, "nome": "Parque Güell", "descricao": "Parque com mosaicos coloridos e vistas da cidade.", "imagem": "https://images.unsplash.com/photo-1523531294919-4bcd7c65e21c?q=80&w=400" },
+        { "id": 3, "nome": "Casa Batlló", "descricao": "Edifício modernista com fachada ondulante e interiores criativos.", "imagem": "https://images.unsplash.com/photo-1511527661048-7fe73d85e9a4?q=80&w=400" }
+      ]
+    },
+    {
+      "id": 6,
+      "nome": "Nova York",
+      "descricao": "A cidade que nunca dorme, com arranha-céus, cultura e diversidade.",
+      "conteudo": "Nova York é um caldeirão cultural com teatros da Broadway, museus world-class, Central Park e bairros únicos. Uma experiência urbana sem igual.",
+      "pais": "EUA",
+      "continente": "América do Norte",
+      "destaque": false,
+      "data": "2025-04-01",
+      "latitude": 40.7128,
+      "longitude": -74.006,
+      "imagem_pincipal": "https://images.unsplash.com/photo-1485871981521-5b1fd3805eee?q=80&w=600",
+      "atracoes": [
+        { "id": 1, "nome": "Central Park", "descricao": "Imenso parque urbano no coração de Manhattan.", "imagem": "https://images.unsplash.com/photo-1568515387631-8b650bbcdb90?q=80&w=400" },
+        { "id": 2, "nome": "Estátua da Liberdade", "descricao": "Ícone da liberdade, presente da França aos EUA.", "imagem": "https://images.unsplash.com/photo-1555921015-5532091f6026?q=80&w=400" },
+        { "id": 3, "nome": "Times Square", "descricao": "Cruzamento vibrante com letreiros luminosos e teatros.", "imagem": "https://images.unsplash.com/photo-1534430480872-3498386e7856?q=80&w=400" }
+      ]
+    }
+  ],
+  "usuarios": [
+    {
+      "id": "187cb7e5-e097-4224-8bc7-b610c855e2b1",
+      "login": "admin",
+      "senha": "123",
+      "nome": "Administrador do Sistema",
+      "email": "admin@wondertrail.com",
+      "admin": true
+    },
+    {
+      "id": "ec37c83d-4b7f-458d-9e10-3fda7d37cd3e",
+      "login": "user",
+      "senha": "123",
+      "nome": "Usuário Comum",
+      "email": "user@wondertrail.com",
+      "admin": false
+    }
+  ],
+  "favoritos": []
+}
